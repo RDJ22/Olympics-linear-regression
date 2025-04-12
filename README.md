@@ -16,7 +16,7 @@ This project applies linear regression using the **normal equation** to model Ol
 
 > This project demonstrates linear regression from both a theoretical and applied perspective. It begins with a matrix algebra derivation of the quadratic form \( \mathbf{w}^\top \mathbf{X}^\top \mathbf{X} \mathbf{w} \), and continues with a Python implementation of linear regression using the normal equation to model Olympic winning times as a function of year.
 
-### ✅ Question 1 – Matrix Derivation
+### Question 1 – Matrix Derivation
 - Expanded the quadratic form \( \mathbf{w}^\top \mathbf{X}^\top \mathbf{X} \mathbf{w} \) using matrix multiplication
 - Expressed it as:
   \[
@@ -24,7 +24,7 @@ This project applies linear regression using the **normal equation** to model Ol
   \]
 - Demonstrated this step-by-step using Python and LaTeX formatting
 
-### ✅ Question 2 – Linear Regression on Olympic Data
+### Question 2 – Linear Regression on Olympic Data
 - Loaded Olympic year and race time data
 - Implemented linear regression using the **normal equation**:
   \[
@@ -47,7 +47,7 @@ This project applies linear regression using the **normal equation** to model Ol
 
 ---
 
-## 📚 Background
+## Background
 
 This project was developed during my graduate studies in Data Analytics at the **University of Glasgow**.
 
